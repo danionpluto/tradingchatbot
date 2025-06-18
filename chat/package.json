@@ -10,7 +10,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-  "vercel-build": "react-scripts build"
+  "build": "react-scripts build",
+  "vercel-build": "npm run build"
 },
   "engines": {
     "node": ">=18 <24",
