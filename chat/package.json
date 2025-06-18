@@ -10,7 +10,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    // "postinstall": "npm rebuild"
   },
   "engines": {
     "node": ">=18 <24",
